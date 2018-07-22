@@ -1,0 +1,76 @@
+#files {
+}
+
+.file {
+  display: inline-block;
+  background-color: #ddd;
+  text-align: center;
+  margin: 0.5em;
+  width: 10em;
+
+}
+
+.hash {
+  font-family: monospace;
+  margin: 0;
+}
+
+.file input {
+  margin: 0.2em 0em;
+  width: 90%;
+}
+
+.blob {
+  display: inline-block;
+  background-color: #ddd;
+  text-align: center;
+  margin: 0.5em;
+  width: 10em;
+
+}
+.content {
+  margin: 0;
+  font-size: 75%;
+  word-wrap:break-word;
+  word-break:break-all;
+}
+
+.tree {
+  display: inline-block;
+  background-color: #ddd;
+  margin: 0.5em;
+  width: 10em;
+}
+
+.tree p {
+  word-wrap:break-word;
+  word-break:break-all;
+  margin: 0;
+}
+
+.tree span {
+  font-family: monospace;
+  margin: 0.5em;
+}
+
+.hash  {
+  background-color: #bbb;
+  text-align: center;
+}
+
+
+#commits div {
+  background-color: #ddd;
+  margin: 0.5em;
+  width: 10em;
+  display: inline-block;
+}
+
+#commits .content {
+  margin: 0em 0.5em;
+}
+
+#commits div span {
+  font-family: monospace;
+  margin: 0.5em;
+}
